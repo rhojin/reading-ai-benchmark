@@ -1,0 +1,1723 @@
+{
+  "book_id": "4e04ea77acf3b021",
+  "chapters": {
+    "1": "Down the Rabbit-Hole",
+    "2": "The Pool of Tears",
+    "3": "A Caucus-Race and a Long Tale",
+    "4": "The Rabbit Sends in a Little Bill",
+    "5": "Advice from a Caterpillar",
+    "6": "Pig and Pepper",
+    "7": "A Mad Tea-Party",
+    "8": "The Queen’s Croquet-Ground",
+    "9": "The Mock Turtle’s Story",
+    "10": "The Lobster Quadrille",
+    "11": "Who Stole the Tarts?",
+    "12": "Alice’s Evidence"
+  },
+  "models": {
+    "anthropic-big": {
+      "model_id": "anthropic/claude-sonnet-5.5",
+      "run_id": 7,
+      "chapters": {
+        "1": {
+          "summary": "Alice, feeling bored by the riverbank, follows a White Rabbit with a watch down a rabbit-hole and falls into a strange hall with locked doors. She finds a tiny door to a lovely garden and drinks a 'DRINK ME' bottle, which makes her small, but then she cannot reach the golden key and eats a cake marked 'EAT ME'.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What kind of animal did Alice see running by with a watch in its waistcoat pocket?",
+              "answer": "A White Rabbit with pink eyes."
+            },
+            {
+              "level": "easy",
+              "question": "What was the name of Alice's cat?",
+              "answer": "Dinah."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice run across the field and jump down the rabbit-hole?",
+              "answer": "She was very curious because she had never seen a rabbit with a waistcoat-pocket and a watch."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice check the bottle before she drank from it?",
+              "answer": "She wanted to see if it was marked 'poison', because she had read that unsafe things can hurt you."
+            },
+            {
+              "level": "hard",
+              "question": "Alice ate the cake even though she did not know what it would do. Do you think that was a good idea? Why or why not?",
+              "answer": "Any opinion is fine if it gives a reason, like she needed to try something to reach the key, or it could have been risky."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice will do next to get into the garden, and what might happen to her?",
+              "answer": "A good answer guesses a sensible next step, like trying the cake again, finding the key, or changing size, and gives a reason."
+            }
+          ]
+        },
+        "2": {
+          "summary": "Alice grows over nine feet tall and cries a huge pool of tears. After she shrinks again by using the Rabbit's fan, she falls into the pool and meets a Mouse, whom she upsets by talking about cats and dogs. Many animals fall into the pool, and they all swim to the shore.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the White Rabbit drop when Alice spoke to him?",
+              "answer": "He dropped the white kid gloves and the large fan."
+            },
+            {
+              "level": "easy",
+              "question": "Who did Alice meet swimming in the pool of tears?",
+              "answer": "She met a mouse that had slipped into the pool, along with other animals like a Duck, a Dodo, a Lory and an Eaglet."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice start getting smaller again?",
+              "answer": "She was holding the Rabbit's fan, and it made her shrink. She dropped it just in time."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Mouse get so upset when Alice talked to him?",
+              "answer": "Alice kept talking about cats and dogs, and the Mouse hated them, so he felt scared and angry."
+            },
+            {
+              "level": "hard",
+              "question": "In this chapter Alice cries a lot and then ends up in a pool of tears. What do you think about how her crying caused trouble for her?",
+              "answer": "Any opinion is fine. A good answer says the tears made a pool she fell into, and gives a reason why she did or did not deserve it."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 1, Alice used the key, the drink and the cake to change her size. How is her size changing in this chapter like that, and what do you think she will do next to get to the garden?",
+              "answer": "A good answer says she changes size again, this time with the fan, and predicts something sensible, like finding the key again or eating or drinking something."
+            }
+          ]
+        },
+        "3": {
+          "summary": "The wet animals hold a silly Caucus-race to dry off, and Alice hands out her comfits as prizes and receives her own thimble. The Mouse begins telling his long, sad tale but storms off when Alice seems not to listen. When Alice talks about her cat Dinah, all the animals leave, and she is left alone and sad.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What race did the Dodo say would help everyone get dry?",
+              "answer": "A Caucus-race."
+            },
+            {
+              "level": "easy",
+              "question": "What did Alice give everyone as prizes, and what did she get as her own prize?",
+              "answer": "She gave out comfits (candies) as prizes, and she got her thimble as her own prize."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Mouse read the dry history story to the animals?",
+              "answer": "The Mouse thought it was the driest thing he knew and that it would help everyone get dry."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the birds and other animals hurry away from Alice at the end?",
+              "answer": "Alice talked about her cat Dinah eating little birds, which scared the birds, so they made excuses and left."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice should have talked about Dinah? Why or why not?",
+              "answer": "Any reasoned opinion is fine. A good answer says Alice was proud of Dinah but should have remembered that cats scare birds and mice."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 2 Alice upset the Mouse by talking about cats and dogs. What happened again in this chapter, and what do you think Alice should learn?",
+              "answer": "She upset animals again by talking about her cat. A good answer says she should think about what scares or upsets others before speaking."
+            }
+          ]
+        },
+        "4": {
+          "summary": "Alice is mistaken for the Rabbit's housemaid and goes into his house, where she drinks from a bottle and grows so big she gets stuck. The animals outside try to get her out, and she kicks Bill the Lizard up the chimney. She eats a magic cake to shrink, escapes into a wood, plays with a huge puppy, and finds a blue Caterpillar on a mushroom.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What name does the White Rabbit call Alice when he thinks she is his housemaid?",
+              "answer": "He calls her Mary Ann."
+            },
+            {
+              "level": "easy",
+              "question": "Who is the little animal that has to go down the chimney, and what happens to him?",
+              "answer": "Bill the Lizard goes down the chimney, and Alice kicks him so he flies up out of it."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice get stuck inside the Rabbit's house?",
+              "answer": "She drank from a little bottle and grew so big that she filled the whole room and could not fit out the door."
+            },
+            {
+              "level": "medium",
+              "question": "How does Alice become small enough to get out of the house?",
+              "answer": "The pebbles thrown in turn into little cakes, and she eats one, which makes her shrink so she can go through the door."
+            },
+            {
+              "level": "hard",
+              "question": "Alice was frightened of the Rabbit even though she was much bigger than him. Why do you think she felt that way?",
+              "answer": "Any sensible answer, such as she forgot how big she was, or the Rabbit sounded angry and bossy. A good answer gives a reason."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 1, Alice ate and drank things to change her size. What did she do this time that was the same, and what do you think she will do next to get back to her right size?",
+              "answer": "She drank from a bottle and ate a cake again. A good prediction is that she will eat or drink something, maybe the mushroom."
+            }
+          ]
+        },
+        "5": {
+          "summary": "Alice meets a rude Caterpillar who asks who she is, makes her recite a poem, and tells her one side of his mushroom makes her taller and the other shorter. She nibbles the mushroom, grows a very long neck, and is called a serpent by an angry Pigeon guarding her eggs. Alice finally returns to her normal size and shrinks to nine inches to approach a little house.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What was the Caterpillar sitting on, and what was it smoking?",
+              "answer": "The Caterpillar was sitting on a mushroom and smoking a hookah (a long pipe)."
+            },
+            {
+              "level": "easy",
+              "question": "What did the Pigeon think Alice was when her neck grew very long?",
+              "answer": "The Pigeon thought Alice was a serpent (a snake)."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Pigeon think Alice was a serpent and shout at her?",
+              "answer": "Alice's neck was very long like a snake's, and the Pigeon was afraid she had come to steal its eggs."
+            },
+            {
+              "level": "medium",
+              "question": "How did Alice get back to her normal size after she met the Pigeon?",
+              "answer": "She carefully nibbled the two pieces of mushroom, one and then the other, until she grew or shrank to her usual height."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 1 Alice drank and ate things to change size. How is the mushroom like the 'DRINK ME' bottle and the 'EAT ME' cake?",
+              "answer": "Like the bottle and cake, the mushroom changes Alice's size. A good answer says eating or drinking something makes her grow or shrink."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice will do when she gets to the little house, and why?",
+              "answer": "Any sensible guess is fine, such as knocking or meeting someone, with a reason. Alice made herself nine inches tall so she would not scare whoever lives there."
+            }
+          ]
+        },
+        "6": {
+          "summary": "Alice goes into the Duchess's smoky, peppery kitchen, where the cook throws things and the Duchess is rough with her baby. Alice carries the baby outside, and it turns into a pig. She then talks with the Cheshire Cat, who tells her everyone is mad, and she heads to the March Hare's house.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the Duchess's baby turn into?",
+              "answer": "The baby turned into a pig."
+            },
+            {
+              "level": "easy",
+              "question": "Which animal sat in the tree, grinned a lot, and kept vanishing and appearing?",
+              "answer": "The Cheshire Cat."
+            },
+            {
+              "level": "medium",
+              "question": "Why was the kitchen full of sneezing and howling?",
+              "answer": "The air was full of pepper from the cook's soup, so almost everyone sneezed, and the baby howled."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice put the baby down and let it trot away into the wood?",
+              "answer": "The baby grunted, had a snout-like nose and small eyes, and became a real pig, so Alice would not carry it any further."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice was right to take the baby out of the kitchen? Why or why not?",
+              "answer": "Either answer is fine if the child gives a reason, such as the kitchen being rough and unsafe for the baby, or that the baby turned into a pig anyway."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice changed size by eating and drinking things. In this chapter, how does she use the mushroom from the Caterpillar, and why?",
+              "answer": "She nibbles the left-hand bit of mushroom to grow to about two feet tall, because the March Hare's house is large and she feels nervous going near it."
+            }
+          ]
+        },
+        "7": {
+          "summary": "Alice joins the March Hare, the Hatter, and the sleepy Dormouse at a strange tea-party where it is always six o'clock. They ask riddles with no answers, and the Dormouse tells a confusing story. Alice leaves, finds a door in a tree, and this time reaches the beautiful garden.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is sitting at the tea table with the March Hare and the Hatter?",
+              "answer": "A sleepy Dormouse is sitting between them, and they use it like a cushion."
+            },
+            {
+              "level": "easy",
+              "question": "What does the Hatter's watch tell, and what does it not tell?",
+              "answer": "It tells the day of the month, but it does not tell what time it is."
+            },
+            {
+              "level": "medium",
+              "question": "Why is it always tea-time at the party table?",
+              "answer": "The Hatter quarrelled with Time, so Time stopped the clock at six o'clock and it is always tea-time."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice get up and leave the tea-party?",
+              "answer": "The Hatter says she shouldn't talk, which is too rude for her, and the tea-party feels silly and confusing to her."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the Hatter and the March Hare are good hosts? Why or why not?",
+              "answer": "Open answer. A good answer gives a reason, like they are rude and say 'no room' and offer wine that isn't there."
+            },
+            {
+              "level": "hard",
+              "question": "At the end, Alice finds the hall with the little glass table again. How is she more careful this time than in Chapter 1?",
+              "answer": "She takes the golden key first and unlocks the door, then nibbles the mushroom to shrink, so she gets into the garden."
+            }
+          ]
+        },
+        "8": {
+          "summary": "Alice reaches the garden and sees card gardeners painting white roses red, then meets the angry King and Queen of Hearts. She saves the gardeners from beheading and plays a confusing croquet game with hedgehogs and flamingoes. When the Cheshire Cat appears and the Queen wants its head cut off, everyone argues until the Duchess is sent for and the Cat vanishes.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What color were the roses on the tree, and what color were the gardeners painting them?",
+              "answer": "The roses were white, and the gardeners were painting them red."
+            },
+            {
+              "level": "easy",
+              "question": "What did the Queen use as balls and as mallets in the croquet game?",
+              "answer": "The balls were live hedgehogs and the mallets were live flamingoes."
+            },
+            {
+              "level": "medium",
+              "question": "Why were the three gardeners painting the white roses red?",
+              "answer": "They planted a white rose-tree by mistake when it should be red, and they feared the Queen would cut off their heads if she found out."
+            },
+            {
+              "level": "medium",
+              "question": "How did Alice save the three gardeners from the Queen's soldiers?",
+              "answer": "She hid them in a big flower-pot, and the soldiers could not find them, so they marched away."
+            },
+            {
+              "level": "hard",
+              "question": "Alice was brave with the Queen at first, but later she felt uneasy. Why do you think her feelings changed?",
+              "answer": "A good answer says Alice saw the Queen keep ordering people beheaded during the game and worried she might be next."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 6 Alice met the Cheshire Cat, who said everyone here is mad. Do you think the Cat was right, after what you read in this chapter? Why?",
+              "answer": "A good answer gives an opinion with an example, like the Queen shouting 'Off with his head!' all the time or the odd live croquet game."
+            }
+          ]
+        },
+        "9": {
+          "summary": "The friendly Duchess tells Alice silly morals until the Queen scares her away. The Queen orders almost everyone to be beheaded, but the King pardons them, and the Queen sends Alice with a Gryphon to meet the sad Mock Turtle. The Mock Turtle begins telling Alice about his strange school under the sea.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who comes up to the Duchess and Alice and frightens the Duchess away?",
+              "answer": "The Queen of Hearts comes and frightens the Duchess away."
+            },
+            {
+              "level": "easy",
+              "question": "Where did the Mock Turtle and the other sea creatures go to school?",
+              "answer": "They went to school in the sea."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice not like walking so close to the Duchess?",
+              "answer": "The Duchess was very ugly, and her sharp chin dug into Alice's shoulder, which hurt."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Gryphon say the lessons were called lessons?",
+              "answer": "Because they lessen, or get shorter, each day. The Turtle did ten hours the first day, then nine, and so on."
+            },
+            {
+              "level": "hard",
+              "question": "The Gryphon said the Queen never really cuts anyone's head off. Why do you think the King pardoned everyone? Do you think the Queen is as scary as she sounds?",
+              "answer": "Answers vary. A good answer uses clues, like the King quietly pardoning the players and the Gryphon laughing, to say the Queen is mostly loud and bossy."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 6 the Duchess was cross and rough, but here she is friendly. Why do you think she changed, and what do you think of her?",
+              "answer": "Answers vary. A good answer gives a reason, like the pepper being gone or her wanting to please Alice, and says what the child thinks of her."
+            }
+          ]
+        },
+        "10": {
+          "summary": "The Mock Turtle and the Gryphon describe and act out part of the Lobster Quadrille, and the Mock Turtle sings a song about a whiting and a snail. Alice tells her adventures, but when she tries to recite a poem it comes out all wrong. The Mock Turtle sings 'Beautiful Soup' until a cry that a trial is beginning makes the Gryphon rush Alice away.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is dancing around Alice while the Mock Turtle sings?",
+              "answer": "The Mock Turtle and the Gryphon dance round and round Alice."
+            },
+            {
+              "level": "easy",
+              "question": "What song does the Mock Turtle sing at the end of the chapter?",
+              "answer": "He sings 'Beautiful Soup' (also called 'Turtle Soup')."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice say the poem 'Tis the Voice of the Sluggard' so strangely?",
+              "answer": "Her head is so full of the Lobster Quadrille that she hardly knows what she is saying, so the words come out wrong."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Gryphon pull Alice away and hurry off at the end?",
+              "answer": "Someone shouts in the distance that the trial is beginning, so the Gryphon runs off with Alice before the song ends."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice said the words of 'You Are Old, Father William' came out wrong for the Caterpillar. How is that like what happens in this chapter?",
+              "answer": "A good answer says the same thing happens again: Alice mixes up a poem and the words come out strange and silly, and she feels confused."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the Gryphon and the Mock Turtle are good company for Alice? Why or why not?",
+              "answer": "Any opinion is fine if it has a reason, such as they are fun and show her a dance, or they are bossy, impatient and confusing."
+            }
+          ]
+        },
+        "11": {
+          "summary": "Alice watches the trial of the Knave of Hearts, who is accused of stealing the Queen's tarts. The nervous Hatter and the Duchess's cook give silly, useless evidence, and the Queen and King shout threats. Alice begins to grow larger, and then the White Rabbit calls her as the next witness.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is the first witness that the King calls at the trial?",
+              "answer": "The Hatter is the first witness. He comes in holding a teacup and a piece of bread-and-butter."
+            },
+            {
+              "level": "easy",
+              "question": "What is the Knave of Hearts accused of doing?",
+              "answer": "He is accused of stealing the Queen of Hearts' tarts and taking them away."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Hatter shake so much that his shoes fall off?",
+              "answer": "He is very scared because the Queen stares at him and the King keeps threatening to have him executed."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Dormouse get up and move to the other side of the court?",
+              "answer": "Alice is growing bigger and squeezing him, so he feels crushed, gets cross and moves away."
+            },
+            {
+              "level": "hard",
+              "question": "In the earlier chapters Alice often changed size. How does her growing at the start of the trial remind you of that, and what do you think might happen next?",
+              "answer": "A good answer links to her earlier growing and shrinking, and guesses what happens, like her getting very big or being noticed by the Queen."
+            },
+            {
+              "level": "hard",
+              "question": "The White Rabbit calls out 'Alice!' as the next witness. How do you think Alice feels, and what do you think she will say?",
+              "answer": "A good answer says Alice feels surprised or nervous, and gives a sensible guess about what she might say, with a reason."
+            }
+          ]
+        },
+        "12": {
+          "summary": "Alice, now huge, accidentally upsets the jury and then argues with the King and Queen as they use silly rules and nonsense verses to blame the Knave. When the Queen shouts 'Off with her head!', Alice calls them just a pack of cards, and they fly at her. She wakes up by the riverbank, tells her sister about her dream, and her sister then dreams of Wonderland too.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What happened to the jury-box when Alice jumped up?",
+              "answer": "Alice tipped it over with her skirt, and all the jurymen fell out onto the heads of the crowd."
+            },
+            {
+              "level": "easy",
+              "question": "Where did Alice find herself at the end, and who was with her?",
+              "answer": "She was lying on the riverbank with her head in her sister's lap."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Queen and King say Alice had to leave the court?",
+              "answer": "The King read a rule saying anyone over a mile high must leave, and they said Alice was that tall."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Queen shout 'Off with her head!' at Alice?",
+              "answer": "Alice said the idea of 'sentence first, verdict afterwards' was nonsense and refused to hold her tongue, so the Queen got very angry."
+            },
+            {
+              "level": "hard",
+              "question": "Alice says 'You're nothing but a pack of cards!' Why do you think she was brave enough to say it now, when she was not so brave before?",
+              "answer": "Any sensible answer, such as: she had grown to full size and felt big and strong, or she was tired of the unfair trial and the Queen's bullying."
+            },
+            {
+              "level": "hard",
+              "question": "Early in the story Alice fell down a rabbit-hole into a strange world. How does the ending, waking up by the riverbank, connect to the beginning? What do you think about that ending?",
+              "answer": "A good answer notes that Alice began bored by the riverbank and ends there, so it was all a dream, and gives an opinion about the ending."
+            }
+          ]
+        }
+      }
+    },
+    "anthropic-small": {
+      "model_id": "anthropic/claude-haiku-5.5",
+      "run_id": 5,
+      "chapters": {
+        "1": {
+          "summary": "Alice, bored by the riverbank, follows a talking White Rabbit with a pocket watch down a deep rabbit-hole and falls a long way into an underground hall. She finds a tiny golden key and a small door to a beautiful garden, then drinks from a bottle and eats a cake that make her shrink and grow. The chapter ends with Alice small and crying, unable to reach the key she needs to get into the garden.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What does Alice see the White Rabbit take out of its waistcoat-pocket?",
+              "answer": "A watch, which it looks at before hurrying on."
+            },
+            {
+              "level": "easy",
+              "question": "What is written on the paper label of the little bottle Alice finds on the glass table?",
+              "answer": "The words \"DRINK ME,\" printed in large letters."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice decide to check the bottle before drinking from it?",
+              "answer": "She remembers stories of children who got hurt by not following safety rules, so she checks whether it is marked poison first."
+            },
+            {
+              "level": "medium",
+              "question": "Why can't Alice get the little golden key from the glass table after she shrinks?",
+              "answer": "She is too small to reach the table, and the table legs are too slippery for her to climb up."
+            },
+            {
+              "level": "hard",
+              "question": "Why do you think Alice keeps talking to herself and giving herself advice? Do you ever do something like that?",
+              "answer": "A good answer says that talking to herself helps her feel less alone and think things through, and connects it to the child's own experience."
+            },
+            {
+              "level": "hard",
+              "question": "Alice says she is starting to think very few things are really impossible. Do you think she is right, and what might happen next to prove it?",
+              "answer": "A good answer gives the child's opinion with a reason, such as the strange events so far, and predicts a surprising thing that could happen next in the garden or hall."
+            }
+          ]
+        },
+        "2": {
+          "summary": "Alice grows so tall that her tears form a deep pool in the hall, then shrinks again and falls into the salt water. She meets a Mouse in the pool, tries to talk with it, and accidentally upsets it by mentioning cats and dogs. Finally, the Mouse agrees to tell its story on the shore, and Alice leads a crowd of swimming birds and animals there.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Why does Alice have to stop trying to get through the little door into the garden?",
+              "answer": "She is too big to fit through the little door, and she cannot reach the tiny golden key because she is so far away."
+            },
+            {
+              "level": "easy",
+              "question": "What does the Mouse say it hates, and who does Alice think of when she mentions it?",
+              "answer": "The Mouse hates cats; Alice talks about her cat Dinah, and then mentions a dog she likes too."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice grow small again after she puts on the Rabbit's white kid glove and holds the fan?",
+              "answer": "She had been fanning herself with the fan, which made her shrink, so she dropped it just in time to avoid shrinking away altogether."
+            },
+            {
+              "level": "medium",
+              "question": "How did the big pool of water form around Alice, and why does she end up swimming in it?",
+              "answer": "Alice had cried so many gallons of tears while she was nine feet high that they made a pool, and she falls in it when her foot slips."
+            },
+            {
+              "level": "hard",
+              "question": "Alice says she is not sure who she is anymore. Do you think she is still the same Alice from the riverbank? Why or why not?",
+              "answer": "A good answer says whether Alice still feels like herself, and gives a reason based on her strange size changes, her forgetful lessons, or her kindness and curiosity."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice drank from a bottle and ate a cake, and now she has been crying. Do you think the Mouse will help Alice get out of the pool and back to the garden? Why do you think so?",
+              "answer": "A good answer makes a prediction about whether the Mouse or the other animals will help Alice, and explains it using clues from the chapter, like the Mouse swimming back to talk to her."
+            }
+          ]
+        },
+        "3": {
+          "summary": "The wet creatures gather on the bank and try to get dry, and the Dodo proposes a Caucus-race. Alice gives out comfits and a thimble as prizes, then the Mouse begins a long tale but leaves in anger after Alice misunderstands it. When Alice mentions her cat Dinah, the other animals hurry away, and Alice is left alone and lonely.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What is the name of the game the Dodo suggests to get everyone dry?",
+              "answer": "The Dodo suggests a Caucus-race, a race where everyone runs when they like and stops when they like."
+            },
+            {
+              "level": "easy",
+              "question": "What does Alice give out as prizes, and what does she get herself?",
+              "answer": "Alice gives out comfits from her pocket as prizes, and she receives her own prize, a thimble, from the Dodo."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Mouse walk away and refuse to finish its story?",
+              "answer": "The Mouse is offended because Alice says it had reached a knot instead of the fifth bend, and it thinks she is talking nonsense and not paying attention."
+            },
+            {
+              "level": "medium",
+              "question": "Why do the birds and animals leave the party after Alice talks about Dinah?",
+              "answer": "They are frightened and offended because Alice said her cat Dinah eats birds and mice, so they go home and leave her alone."
+            },
+            {
+              "level": "hard",
+              "question": "Why do you think Alice keeps talking about her pet Dinah, even when the others don't seem to like the idea? Connect your answer to what happened earlier in the story if you can.",
+              "answer": "A good answer says Alice misses home and her cat, which fits how she felt lonely and wanted to go back, and she is trying to make friends by talking about things she loves."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think will happen next in the story, now that Alice is alone and the Mouse may be coming back? Explain your guess.",
+              "answer": "Any reasonable guess is fine if it uses clues from the chapter, such as Alice wanting to find the way back home or the Mouse returning to finish its story."
+            }
+          ]
+        },
+        "4": {
+          "summary": "Alice mistakes herself for the Rabbit's housemaid, fetches a fan and gloves from his house, and drinks a bottle that makes her grow so large she is stuck inside. The Rabbit and his helpers try to remove her, and when they send Bill the Lizard down the chimney, Alice kicks him out. She escapes by eating a cake that shrinks her, then outwits a puppy in the woods and meets a blue caterpillar smoking a hookah on a mushroom.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who does the Rabbit think Alice is when it first sees her, and what does it ask her to bring?",
+              "answer": "The Rabbit thinks Alice is its housemaid, Mary Ann, and asks her to fetch a fan and a pair of gloves."
+            },
+            {
+              "level": "easy",
+              "question": "What does Alice find in the little house that she takes with her?",
+              "answer": "She finds a fan and a pair of tiny white kid gloves and takes them with her."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice drink from the little bottle, and what happens to her because of it?",
+              "answer": "She drinks it hoping to grow large again because she is tired of being tiny, but she grows so big that she gets stuck in the house."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice eat one of the little cakes, and how does it change her?",
+              "answer": "She thinks it must make her smaller, since it can't make her larger, and it does shrink her so she can get out of the house."
+            },
+            {
+              "level": "hard",
+              "question": "Alice says she wishes she could teach the puppy tricks if she were the right size. Why do you think she feels this way, and what does she seem to like about animals?",
+              "answer": "A good answer says she enjoys animals and playing with them, and that she would like to be a normal size so she can interact with them without being in danger."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice was lonely and sad after the other animals ran away from her. How do you think her feelings in this chapter compare, and what does this show about how she handles trouble?",
+              "answer": "A good answer notes she stays brave and clever, using her wits to escape the Rabbit's crowd and the puppy, unlike her earlier loneliness, showing she keeps trying even when things go wrong."
+            }
+          ]
+        },
+        "5": {
+          "summary": "Alice meets a rude, sleepy Caterpillar who gives her confusing advice about the two sides of a mushroom, which makes her grow and shrink. After a Pigeon mistakes her long neck for a serpent's, Alice eats pieces of the mushroom until she returns to her normal height, then heads toward a little house so she does not frighten its owner.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who does Alice meet sitting on top of a mushroom at the start of this chapter?",
+              "answer": "She meets a blue Caterpillar who is smoking a hookah on the mushroom."
+            },
+            {
+              "level": "easy",
+              "question": "What does the Pigeon accuse Alice of being when it sees her long neck?",
+              "answer": "The Pigeon says Alice is a serpent, and it screams at her to go away."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice feel so surprised and upset when her shoulders disappear and her neck keeps growing?",
+              "answer": "She had just grown very tall after eating a piece of the mushroom, so she could not see her shoulders or hands and found her neck strange and unexpected."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice nibble at the mushroom to get back to her normal size instead of staying tall?",
+              "answer": "She wants to get back to her usual height so she can go into the beautiful garden and not frighten the little house's owner."
+            },
+            {
+              "level": "hard",
+              "question": "How do you think Alice feels about the Caterpillar and the Pigeon, and why do you think she feels that way?",
+              "answer": "A good answer names a feeling such as annoyed, confused, or impatient, and gives a reason from the chapter, like the Caterpillar's rude short answers or the Pigeon insisting she is a serpent."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice was frightened of the Mouse and upset when the animals ran away. How is her reaction to the Pigeon and the Caterpillar in this chapter similar to or different from those earlier moments?",
+              "answer": "A good answer notes that Alice stays polite and keeps trying to explain herself, unlike earlier when she got lonely and sad, and that she stands up for herself more firmly now."
+            }
+          ]
+        },
+        "6": {
+          "summary": "Alice follows a talking Footman into a house and finds a smoky kitchen full of sneezing, shouting, and flying pans. She takes a baby that turns into a pig and releases it into the wood, then meets the grinning Cheshire Cat, who gives her odd answers about the Hatter and the March Hare. Alice heads toward the March Hare's house, nervous that its owner may be truly mad.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who opens the door of the house when the Fish-Footman has gone?",
+              "answer": "The Frog-Footman, a footman with a round face and large eyes like a frog, opens the door."
+            },
+            {
+              "level": "easy",
+              "question": "What does the Duchess do with the baby while she sings her song?",
+              "answer": "She tosses the baby violently up and down while singing, and then hands the baby to Alice."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice decide to carry the baby out of the house?",
+              "answer": "She thinks the cook will hurt or kill the baby if she leaves it behind, so she takes it away."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice finally set the baby down in the wood?",
+              "answer": "The baby has turned into a pig, and Alice feels it would be absurd to carry a pig any further."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice was upset when the Mouse heard her talk about cats and dogs. How does Alice seem to feel about the Cheshire Cat, and what does that tell you about how she has changed since the Pool of Tears?",
+              "answer": "A good answer notes Alice is curious and polite but cautious, respecting the Cat's claws and teeth, and shows she is more confident and willing to talk with strange creatures than before."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the Cheshire Cat is really mad, or is it just playing games with Alice? Explain what you think and why.",
+              "answer": "There is no single right answer; a good response gives a personal opinion about the Cat and supports it with something it says or does in the chapter."
+            }
+          ]
+        },
+        "7": {
+          "summary": "Alice joins the March Hare, the Hatter, and a sleepy Dormouse at a messy tea party where they argue, talk in riddles, and pinch the Dormouse awake to tell a nonsense story about treacle. Tired of the rudeness and silliness, Alice leaves, finds a door in a tree, and returns to the long hall and the little golden key. She unlocks the door and finally steps into the beautiful garden.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is sitting at the table with Alice at the start of the tea party?",
+              "answer": "The March Hare, the Hatter, and a sleepy Dormouse are at the table with Alice."
+            },
+            {
+              "level": "easy",
+              "question": "What does the Hatter ask Alice about her hair?",
+              "answer": "The Hatter says her hair wants cutting, which Alice thinks is a rude personal remark."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice get up and leave the tea party?",
+              "answer": "The Hatter is rude to her by telling her not to talk, and the Dormouse keeps falling asleep, so Alice is fed up and walks away."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Hatter say it is always six o'clock, and why is there so much tea?",
+              "answer": "The Hatter quarrelled with Time, so Time stopped moving and it is always tea-time, so the things are never washed and the tea is always out."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 3, the Mouse told a long tale and got upset with Alice. How is the Dormouse's story in this chapter similar, and how do you think Alice feels about it?",
+              "answer": "A good answer notes both tales are confusing or interrupted, and that Alice gets frustrated or puzzled, like when the Mouse left angrily in Chapter 3."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice is right to say the tea party is the stupidest she has ever been to? Why or why not?",
+              "answer": "There is no single right answer. A good response gives an opinion about the tea party's silly, rude, or confusing behaviour and supports it with an example from the chapter."
+            }
+          ]
+        },
+        "8": {
+          "summary": "Alice finds three gardeners painting white roses red so the Queen will not punish them, then joins the Queen's grand procession and plays a strange croquet game with flamingo mallets and hedgehog balls. The Queen orders heads cut off in a rage, and when the Cheshire Cat appears and the King wants it removed, the Cat vanishes just as the executioner comes back with the Duchess.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What color were the roses before the three gardeners painted them, and what color did they make them?",
+              "answer": "The roses were white, and the gardeners painted them red."
+            },
+            {
+              "level": "easy",
+              "question": "What game does the Queen ask Alice if she can play, and what does Alice's flamingo become in that game?",
+              "answer": "The Queen asks if Alice can play croquet, and the mallets are live flamingoes."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the three gardeners throw themselves flat on their faces when they saw the Queen coming?",
+              "answer": "They had painted the white roses red by mistake, and the Queen would have their heads cut off if she found out."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the King go off to fetch the executioner, and what happened to the Cheshire Cat when he left?",
+              "answer": "The King wanted the Cheshire Cat removed because he did not like its look, so he went for the executioner; the Cat's head faded away while he was gone."
+            },
+            {
+              "level": "hard",
+              "question": "Alice stands up to the Queen here, while earlier in the story she often felt small and frightened. What do you think gave her the courage, and do you think she would have been so brave in the Mad Tea-Party or the Caterpillar's garden?",
+              "answer": "A good answer says Alice realises the royals are just a pack of cards and not real, or that she is tired of being scared, and may mention that she was more polite and careful with the Hatter and Caterpillar."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice ate a cake and drank from a bottle to change her size. In this chapter, how does the Cheshire Cat seem to be different from the other creatures she has met, and what do you predict will happen when the Duchess arrives?",
+              "answer": "A good answer notes the Cat is calm, teasing, and helpful to Alice, unlike the rude or sleepy creatures, and predicts the Duchess or the Queen will cause more trouble, perhaps with the Cat or the gardeners."
+            }
+          ]
+        },
+        "9": {
+          "summary": "Alice walks with the Duchess, who keeps giving silly morals, until the Queen appears and orders the Duchess executed. The Queen sends Alice with a Gryphon to meet the sad Mock Turtle, who begins telling of his school under the sea, with strange lessons like Reeling, Writhing, and Uglification. The chapter ends with the Gryphon asking the Mock Turtle to tell about the games.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who does the Duchess say she is glad to see, and what does Alice call the Gryphon's Queen when she first meets the Gryphon?",
+              "answer": "The Duchess is glad to see Alice again. The Queen is the one who sends Alice to the Mock Turtle, and the Gryphon is the creature who takes her there."
+            },
+            {
+              "level": "easy",
+              "question": "What is the Mock Turtle's school called, and where was it?",
+              "answer": "The Mock Turtle went to school in the sea, where the master was an old Turtle they called Tortoise."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Mock Turtle say his school had 'French, music, and washing—extra' on the bill?",
+              "answer": "Those were extra lessons you had to pay for separately, so the Mock Turtle's school charged extra for them, which he could not afford."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Gryphon say the lessons are called 'lessons,' and what does that mean?",
+              "answer": "Because they lessen, or get shorter, from day to day: ten hours on the first day, nine on the next, and so on."
+            },
+            {
+              "level": "hard",
+              "question": "The Duchess keeps finding morals in everything, and Alice earlier thought the Mouse's story was too long. What do you think Alice's opinion of the Duchess is, and why?",
+              "answer": "A good answer says Alice finds the Duchess odd, rude, or annoying, such as her sharp chin and her silly morals, but Alice tries to be polite. It should give a reason from the chapter."
+            },
+            {
+              "level": "hard",
+              "question": "Back in Chapter 7, the Queen's guests were rude and silly, and in Chapter 8 the Queen ordered heads cut off. What do you predict will happen to Alice when she meets the Queen again, and why?",
+              "answer": "There is no single right answer. A good answer makes a prediction based on the Queen's temper and the story so far, such as Alice being in danger or trying to escape, and explains the reasoning."
+            }
+          ]
+        },
+        "10": {
+          "summary": "The Mock Turtle tells Alice about the Lobster Quadrille and the strange reasons for things under the sea, such as why whiting have their tails in their mouths. He and the Gryphon make Alice recite a poem that comes out all wrong, then they sing a song about Beautiful Soup. The chapter ends with the Gryphon rushing Alice off to a trial that is beginning in the distance.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is the sad creature who tells Alice about the Lobster Quadrille?",
+              "answer": "The Mock Turtle tells Alice about the Lobster Quadrille, and he sighs and sobs as he talks."
+            },
+            {
+              "level": "easy",
+              "question": "What does the Gryphon say the whiting does?",
+              "answer": "The Gryphon says the whiting does the boots and shoes, meaning it makes them shiny under the sea."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the whiting have their tails in their mouths?",
+              "answer": "The whiting wanted to go to the dance with the lobsters, so they were thrown out to sea and fell a long way, which got their tails stuck in their mouths."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice have trouble repeating the poem 'Tis the voice of the sluggard' correctly?",
+              "answer": "Her head was so full of the Lobster Quadrille that she hardly knew what she was saying, so the words came out wrong."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the Mock Turtle and the Gryphon are kind to Alice? Why or why not?",
+              "answer": "A good answer gives an opinion with a reason from the chapter, such as them ordering Alice around, interrupting her, or ignoring her, or noting that they also share their stories and invite her to join."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice had trouble with the Caterpillar and her changing size. How is her trouble with repeating poems here like what happened to her with the Caterpillar?",
+              "answer": "A good answer connects Alice repeating 'You are old, Father William' with the words coming out different in Chapter 5, showing that Wonderland keeps changing things she knows, like her size and her words."
+            }
+          ]
+        },
+        "11": {
+          "summary": "The trial of the Knave of Hearts begins in a silly court, with the King as judge and the jury writing nonsense on their slates. The Hatter, the March Hare, and the Dormouse give confused evidence, and the cook disappears after a muddled question about tarts. As the chapter ends, the White Rabbit calls out Alice as the next witness.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is the judge at the trial, and what is he wearing on his head?",
+              "answer": "The King is the judge, and he wears his crown over his wig."
+            },
+            {
+              "level": "easy",
+              "question": "Who is accused of stealing the tarts, and what is he doing in the court?",
+              "answer": "The Knave of Hearts is accused; he is standing in chains with a soldier on each side."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice take the squeaking pencil away from the juror, and what happens to him afterward?",
+              "answer": "Alice cannot stand the squeaking, so she takes the pencil; the juror, Bill the Lizard, must write with one finger, leaving no mark."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Hatter keep getting nervous and in trouble when he gives his evidence?",
+              "answer": "He is nervous of the Queen and the King, who keep threatening to have him executed, so he becomes confused and cannot answer clearly."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice grew and shrank many times. Why do you think she decides to stay in the court even though she is growing and squeezing the Dormouse?",
+              "answer": "A good answer says she is curious and wants to see the trial, and that she has learned to stand her ground, even though she is less polite now than she was when she was lonely in Chapter 3."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the Knave of Hearts really stole the tarts? Explain what clues in the chapter support your opinion.",
+              "answer": "A good answer gives an opinion with reasons, such as the Hatter and Dormouse's unclear evidence, the King's silly questions, or the fact that the trial is unfair, and notes that there is no real proof yet."
+            }
+          ]
+        },
+        "12": {
+          "summary": "At the trial, Alice accidentally upsets the jury, then gets called as a witness and grows to a huge size. The King and Queen argue over a mysterious set of verses, and Alice refuses to accept their unfair rules, until the pack of cards attacks her. She wakes on the riverbank beside her sister, who dreams of Wonderland and imagines Alice growing up and telling stories to her own children.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who does the King ask to be the next witness, and who calls her out?",
+              "answer": "Alice is called as the next witness, and the White Rabbit calls her out after the Knave's verses are found."
+            },
+            {
+              "level": "easy",
+              "question": "What does the White Rabbit say he found and read to the court?",
+              "answer": "He found a paper with a set of verses, which he read aloud to the court as possible evidence."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the King say the verses prove the Knave's guilt, and why does Alice disagree?",
+              "answer": "The King says the Knave did not sign them, which means he must have meant mischief. Alice disagrees because the verses make no sense and nobody even knows what they are about."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice suddenly wake up on the riverbank, and what has been happening to her?",
+              "answer": "She wakes because the pack of cards flies at her and she tries to beat them off; she was asleep and had been dreaming all along."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think about how Alice stands up to the King and Queen in this chapter, and why do you think she does it?",
+              "answer": "A good answer gives a personal opinion, such as admiring her bravery or honesty, and explains why, like her being fed up with their unfair rules or silly rulings."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier in the story Alice meets the Mouse and the Mock Turtle. How does the ending of this chapter connect with the rest of Alice's adventures, and what might happen if she dreams of Wonderland again?",
+              "answer": "A good answer connects the dream to earlier events like the trial, the Queen's orders, and creatures she met, and predicts a plausible next adventure or lesson Alice might learn."
+            }
+          ]
+        }
+      }
+    },
+    "openai-big": {
+      "model_id": "openai/gpt-6.1-sol",
+      "run_id": 8,
+      "chapters": {
+        "1": {
+          "summary": "Alice follows a White Rabbit with a watch down a rabbit-hole and lands in a hall with locked doors. She finds a tiny door leading to a lovely garden, but a drink makes her too small to reach the key she left on the table. She eats a cake marked “EAT ME,” hoping it will help her get into the garden.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the White Rabbit take out of its waistcoat pocket?",
+              "answer": "The White Rabbit took out a watch."
+            },
+            {
+              "level": "easy",
+              "question": "What did Alice find behind the low curtain in the hall?",
+              "answer": "Alice found a little door behind the curtain."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice follow the White Rabbit?",
+              "answer": "Alice was curious because she had never seen a rabbit with a waistcoat pocket and a watch before."
+            },
+            {
+              "level": "medium",
+              "question": "Why couldn't Alice reach the golden key after drinking from the bottle?",
+              "answer": "She had shrunk so small that she could not reach the key on the table."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice made a good choice by following the Rabbit into its hole?",
+              "answer": "A good answer gives an opinion and uses something from the chapter, such as her curiosity or not knowing how to get out."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think will happen to Alice after she finishes the cake?",
+              "answer": "A good answer predicts what will happen and links it to the bottle changing her size or her hopes about the cake."
+            }
+          ]
+        },
+        "2": {
+          "summary": "Alice grows very tall and cries a pool of tears, then shrinks while holding the White Rabbit’s fan and falls into the pool. She meets a Mouse and upsets it by talking about cats and dogs, but promises to stop. Alice and the other animals swim to shore, where the Mouse plans to tell its story.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the White Rabbit drop when Alice spoke to him?",
+              "answer": "He dropped a pair of white gloves and a large fan."
+            },
+            {
+              "level": "easy",
+              "question": "What animal did Alice meet while swimming in the pool?",
+              "answer": "Alice met a mouse."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice quickly drop the fan?",
+              "answer": "The fan was making her shrink, and she was afraid she would shrink away completely."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Mouse swim away while Alice was talking about a dog?",
+              "answer": "Alice said the dog killed rats, which upset the Mouse."
+            },
+            {
+              "level": "hard",
+              "question": "What advice would you give Alice about reaching the garden after her size changes in both chapters?",
+              "answer": "A good answer suggests a plan and connects it to Alice being too big or too small to reach the garden."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice should talk about next with the Mouse?",
+              "answer": "A good answer suggests a topic and explains why it might help the Mouse feel safe or happy."
+            }
+          ]
+        },
+        "3": {
+          "summary": "The Mouse's history lesson fails to dry the wet animals, but the Dodo's Caucus-race works, and everyone gets a prize. The Mouse leaves after Alice misunderstands its story, and the birds leave when she talks about her cat, Dinah. Alice feels lonely and cries, then hears footsteps approaching.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who suggested the Caucus-race?",
+              "answer": "The Dodo suggested the Caucus-race."
+            },
+            {
+              "level": "easy",
+              "question": "What did Alice receive as her prize?",
+              "answer": "Alice received her own thimble as her prize."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Mouse walk away from Alice?",
+              "answer": "The Mouse thought Alice was not listening and felt insulted by her confused replies."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the birds leave after Alice talked about Dinah?",
+              "answer": "They were frightened because Alice said Dinah was a cat who caught and ate birds."
+            },
+            {
+              "level": "hard",
+              "question": "In Chapter 2, Alice upset the Mouse by talking about cats and dogs; what could she learn from mentioning Dinah in this chapter?",
+              "answer": "A good answer explains that Alice could learn to think about what frightens others before talking about her pets."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think it was fair for everyone to win the Caucus-race?",
+              "answer": "A good answer gives an opinion and supports it with something about the race, such as its unusual rules or everyone getting dry."
+            }
+          ]
+        },
+        "4": {
+          "summary": "The White Rabbit mistakes Alice for his housemaid and sends her to fetch gloves and a fan, but a drink makes her too big to leave his house. She eats a cake, shrinks, and escapes into the woods, where she gets away from a playful puppy. While looking for a way to grow to her right size, she finds a blue caterpillar on a mushroom.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What does the White Rabbit ask Alice to fetch from his house?",
+              "answer": "He asks her to fetch a pair of gloves and a fan."
+            },
+            {
+              "level": "easy",
+              "question": "Who does Alice find sitting on top of the mushroom?",
+              "answer": "Alice finds a large blue caterpillar sitting on top of the mushroom."
+            },
+            {
+              "level": "medium",
+              "question": "Why can’t the White Rabbit open the door to the room?",
+              "answer": "Alice’s elbow is pressed against the door, which opens into the room."
+            },
+            {
+              "level": "medium",
+              "question": "How does Alice become small enough to leave the Rabbit’s house?",
+              "answer": "She eats one of the little cakes that the pebbles turn into, and it makes her shrink."
+            },
+            {
+              "level": "hard",
+              "question": "After her size changes in earlier chapters, do you think Alice should have drunk from the bottle in the Rabbit’s house?",
+              "answer": "A good answer gives an opinion and uses her earlier size changes to explain whether drinking from the bottle was a good idea."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice will do after meeting the caterpillar?",
+              "answer": "A good answer makes a prediction that fits Alice’s wish to grow to her right size or reach the garden."
+            }
+          ]
+        },
+        "5": {
+          "summary": "Alice meets a Caterpillar who tells her that different sides of a mushroom will make her grow taller or shorter. After growing a very long neck and being mistaken for a serpent by a Pigeon, she uses the mushroom pieces to return to her usual height. She then finds a little house and shrinks to nine inches before going near it.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What does the Caterpillar tell Alice to eat to change her size?",
+              "answer": "The Caterpillar tells Alice to eat pieces from different sides of the mushroom."
+            },
+            {
+              "level": "easy",
+              "question": "What bird calls Alice a serpent?",
+              "answer": "A Pigeon calls Alice a serpent."
+            },
+            {
+              "level": "medium",
+              "question": "How does Alice get back to her usual height?",
+              "answer": "She carefully nibbles one mushroom piece and then the other until she reaches her usual height."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice make herself smaller before going near the little house?",
+              "answer": "She thinks she would frighten whoever lives there if she stayed her usual size."
+            },
+            {
+              "level": "hard",
+              "question": "How might the mushroom pieces help Alice reach the garden she saw earlier?",
+              "answer": "A good answer connects the mushroom’s power to change her size with fitting through the tiny door to the garden."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the Caterpillar is helpful to Alice?",
+              "answer": "A good answer gives an opinion supported by something the Caterpillar says or does, such as explaining how the mushroom works."
+            }
+          ]
+        },
+        "6": {
+          "summary": "Alice enters the Duchess's smoky kitchen and takes away a baby, which turns into a pig and trots into the woods. She meets the Cheshire Cat, who tells her about the Hatter and the March Hare, then slowly disappears until only its grin remains. Alice chooses to visit the March Hare and uses a mushroom piece to grow taller before approaching his house.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What game did the Queen invite the Duchess to play?",
+              "answer": "The Queen invited the Duchess to play croquet."
+            },
+            {
+              "level": "easy",
+              "question": "What animal did the baby turn into?",
+              "answer": "The baby turned into a pig."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice take the baby out of the kitchen?",
+              "answer": "Alice thought the baby might be killed if she left it with the Duchess and the cook."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice choose to visit the March Hare instead of the Hatter?",
+              "answer": "She had seen hatters before and thought the March Hare would be more interesting."
+            },
+            {
+              "level": "hard",
+              "question": "How does Alice use what she learned from the Caterpillar when she reaches the March Hare's house?",
+              "answer": "She uses a mushroom piece to grow taller before approaching the large house, just as the Caterpillar taught her."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice will enjoy visiting the March Hare?",
+              "answer": "A good answer makes a prediction and supports it with a clue, such as the Cat's warning or Alice's curiosity."
+            }
+          ]
+        },
+        "7": {
+          "summary": "Alice joins the March Hare, the Hatter, and the Dormouse at a strange tea-party, where they tell riddles and stories that puzzle her. She leaves after the Hatter is rude and enters a door in a tree that leads back to the long hall. This time, she unlocks the garden door before using the mushroom to shrink, and finally reaches the beautiful garden.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is asleep between the March Hare and the Hatter when Alice arrives?",
+              "answer": "The Dormouse is asleep between them."
+            },
+            {
+              "level": "easy",
+              "question": "Where does Alice find herself at the end of the chapter?",
+              "answer": "Alice finds herself in the beautiful garden."
+            },
+            {
+              "level": "medium",
+              "question": "Why is it always tea-time for the Hatter?",
+              "answer": "The Hatter says Time will not do what he asks anymore, so it is always six o’clock."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice leave the tea-party?",
+              "answer": "Alice leaves because she cannot bear the Hatter’s rude remarks anymore."
+            },
+            {
+              "level": "hard",
+              "question": "How does Alice use what she learned earlier to get into the garden this time?",
+              "answer": "A good answer connects her earlier key and size problems with taking the key first and using the mushroom to shrink."
+            },
+            {
+              "level": "hard",
+              "question": "Would you want to stay at this tea-party?",
+              "answer": "A good answer gives an opinion supported by something from the party, such as the silly stories or rude remarks."
+            }
+          ]
+        },
+        "8": {
+          "summary": "Alice meets gardeners painting white roses red and hides them when the Queen orders their heads cut off. She joins a confusing croquet game played with live flamingoes and hedgehogs, while the Queen keeps threatening the players. The Cheshire Cat appears, but its head disappears while the King, Queen, and executioner argue about cutting it off.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Where did Alice hide the three gardeners?",
+              "answer": "Alice hid them in a large flower-pot."
+            },
+            {
+              "level": "easy",
+              "question": "What animals were used as balls in the croquet game?",
+              "answer": "Live hedgehogs were used as balls."
+            },
+            {
+              "level": "medium",
+              "question": "Why were the gardeners painting the white roses red?",
+              "answer": "They had planted a white rose-tree by mistake and feared the Queen would have their heads cut off."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the executioner say he could not cut off the Cheshire Cat’s head?",
+              "answer": "The Cat had no body to cut its head off from."
+            },
+            {
+              "level": "hard",
+              "question": "How is the croquet game like the tea-party Alice visited in the last chapter?",
+              "answer": "A good answer connects the events, such as explaining that both are confusing and people behave rudely."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice was brave to protect the gardeners?",
+              "answer": "A good answer gives an opinion and supports it with something Alice did or a danger she faced."
+            }
+          ]
+        },
+        "9": {
+          "summary": "The Duchess chats with Alice until the Queen frightens her away, and the croquet game ends with nearly everyone taken prisoner. The King pardons the prisoners, and the Queen sends Alice with the Gryphon to meet the Mock Turtle. The Mock Turtle tells Alice about his school under the sea, its strange subjects, and lessons that grew shorter each day.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who takes Alice to meet the Mock Turtle?",
+              "answer": "The Gryphon takes Alice to meet the Mock Turtle."
+            },
+            {
+              "level": "easy",
+              "question": "Where did the Mock Turtle go to school when he was little?",
+              "answer": "The Mock Turtle went to school in the sea."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Duchess leave Alice so suddenly?",
+              "answer": "The Queen threatens to cut off the Duchess’s head if she does not leave."
+            },
+            {
+              "level": "medium",
+              "question": "Why are there no arches left in the croquet game?",
+              "answer": "The soldiers who were acting as arches leave to take away the players the Queen wants punished."
+            },
+            {
+              "level": "hard",
+              "question": "Why do you think the Duchess is friendlier now than she was in the kitchen in Chapter 6?",
+              "answer": "A good answer gives a reason for her changed mood, using details such as Alice’s idea about the pepper in the kitchen."
+            },
+            {
+              "level": "hard",
+              "question": "Would you enjoy going to the Mock Turtle’s school?",
+              "answer": "A good answer gives an opinion and supports it with a detail, such as the strange subjects or lessons getting shorter."
+            }
+          ]
+        },
+        "10": {
+          "summary": "The Mock Turtle and Gryphon show Alice the Lobster Quadrille and tell her strange things about sea creatures. Alice shares her adventures and tries to repeat poems, but the words come out wrong. While the Mock Turtle sings “Turtle Soup,” a shout announces a trial, and the Gryphon hurries Alice away.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What animal is each dancer's partner in the Lobster Quadrille?",
+              "answer": "Each dancer has a lobster as a partner."
+            },
+            {
+              "level": "easy",
+              "question": "What song does the Mock Turtle sing after Alice stops repeating poems?",
+              "answer": "The Mock Turtle sings “Turtle Soup.”"
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Gryphon ask the Mock Turtle to sing during their dance?",
+              "answer": "The Gryphon has forgotten the words to the song."
+            },
+            {
+              "level": "medium",
+              "question": "Why do the words come out strangely when Alice tries to repeat the poem?",
+              "answer": "Alice's head is so full of the Lobster Quadrille that she hardly knows what she is saying."
+            },
+            {
+              "level": "hard",
+              "question": "How is Alice's time with the Mock Turtle and Gryphon like her visit to the tea-party?",
+              "answer": "A good answer connects the visits, such as how the creatures order Alice around or say puzzling things in both."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice would enjoy joining the Lobster Quadrille?",
+              "answer": "A good answer gives an opinion supported by a detail, such as throwing lobsters, swimming, or dancers stepping on Alice's toes."
+            }
+          ]
+        },
+        "11": {
+          "summary": "Alice watches the trial of the Knave of Hearts, who is accused of stealing the Queen’s tarts. The Hatter and the Duchess’s cook give little useful evidence, while Alice begins growing larger. At the end, the White Rabbit calls Alice as the next witness.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who is accused of stealing the Queen’s tarts?",
+              "answer": "The Knave of Hearts is accused of stealing the tarts."
+            },
+            {
+              "level": "easy",
+              "question": "Whose name does the White Rabbit call as the next witness at the end?",
+              "answer": "The White Rabbit calls Alice’s name."
+            },
+            {
+              "level": "medium",
+              "question": "Why does Alice take Bill the Lizard’s pencil?",
+              "answer": "Alice takes his pencil because she cannot stand its squeaking noise."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Dormouse move to the other side of the court?",
+              "answer": "Alice is growing larger and squeezing him, so he can hardly breathe."
+            },
+            {
+              "level": "hard",
+              "question": "How is the Queen’s behavior at the trial like her behavior during the croquet game?",
+              "answer": "A good answer connects the Queen’s threats to cut off heads at the trial with her similar threats during croquet."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the King is a fair judge?",
+              "answer": "A good answer gives an opinion supported by something the King does, such as threatening witnesses or asking for a verdict too soon."
+            }
+          ]
+        },
+        "12": {
+          "summary": "Alice knocks over the jury-box, then challenges the King and Queen’s unfair ideas about the trial. When she calls them a pack of cards, they fly at her, and she wakes beside her sister, realizing Wonderland was a dream. After hearing Alice’s adventures, her sister imagines Wonderland and pictures Alice sharing stories with children when she grows up.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did Alice knock over when she jumped up?",
+              "answer": "Alice knocked over the jury-box with the edge of her skirt."
+            },
+            {
+              "level": "easy",
+              "question": "Who was beside Alice when she woke up?",
+              "answer": "Alice’s sister was beside her, with Alice’s head resting in her lap."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice hurry to put the jurymen back in the jury-box?",
+              "answer": "She remembered spilling her goldfish and felt that the jurymen might die if she did not put them back quickly."
+            },
+            {
+              "level": "medium",
+              "question": "Why was Alice no longer afraid to interrupt the King?",
+              "answer": "Alice had grown so large that she was no longer afraid to interrupt him."
+            },
+            {
+              "level": "hard",
+              "question": "In the croquet game, Alice helped others hide from the Queen; now she talks back to her. How has Alice changed?",
+              "answer": "A good answer describes Alice becoming braver and uses her earlier hiding and her later talking back as examples."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice would enjoy telling other children about her dream when she grows up?",
+              "answer": "A good answer gives an opinion and supports it with something from the chapter, such as Alice calling her dream wonderful."
+            }
+          ]
+        }
+      }
+    },
+    "openai-small": {
+      "model_id": "openai/gpt-6-luna",
+      "run_id": 6,
+      "chapters": {
+        "1": {
+          "summary": "Alice follows a hurried White Rabbit down a rabbit-hole and lands in a hall full of locked doors. She finds a key to a tiny door into a lovely garden, drinks from a bottle and shrinks, but cannot reach the key; she then eats a cake, hoping it will change her size.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the White Rabbit take out of its waistcoat pocket?",
+              "answer": "It took out a watch and looked at it."
+            },
+            {
+              "level": "easy",
+              "question": "What words were written on the little bottle?",
+              "answer": "The bottle was labeled “DRINK ME.”"
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice run after the White Rabbit?",
+              "answer": "She was curious because it had a waistcoat pocket and a watch, and it hurried into a rabbit-hole."
+            },
+            {
+              "level": "medium",
+              "question": "Why couldn’t Alice go through the little door into the garden at first?",
+              "answer": "She was too big to fit through the small doorway."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice was wise to drink from the bottle? Why or why not?",
+              "answer": "A good answer gives an opinion and a reason, such as noting she checked that the bottle was not marked poison."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice will try next to get into the garden?",
+              "answer": "A good answer makes a prediction based on what Alice has tried, such as using the cake to change her size."
+            }
+          ]
+        },
+        "2": {
+          "summary": "Alice grows very tall, then shrinks while holding the White Rabbit’s fan and falls into the pool of tears she made by crying. She meets a Mouse and several other creatures in the pool, and they all swim to shore.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What happened to Alice after she ate the cake?",
+              "answer": "She grew more than nine feet tall."
+            },
+            {
+              "level": "easy",
+              "question": "What did Alice find in the pool with her?",
+              "answer": "She found a mouse swimming in the pool."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice begin shrinking while she held the fan?",
+              "answer": "The fan made her shrink, so she dropped it."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Mouse get upset when Alice talked about Dinah?",
+              "answer": "The Mouse hated cats, and Dinah was Alice’s cat."
+            },
+            {
+              "level": "hard",
+              "question": "How did Alice’s changing size make it harder for her to reach the garden than it was in Chapter 1?",
+              "answer": "A good answer explains that Alice was too large to fit through the little door, then shrank but found the door shut and the key out of reach."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think the Mouse will tell Alice about cats and dogs, and what makes you think so?",
+              "answer": "A good answer makes a prediction about the Mouse’s history and gives a reason, such as the Mouse saying it will explain why it hates them."
+            }
+          ]
+        },
+        "3": {
+          "summary": "After the Mouse’s dry history fails to dry everyone, the Dodo leads a race and gives Alice the job of handing out prizes. The Mouse leaves when Alice misunderstands its long tale, and Alice is left alone after the animals flee when she talks about her cat Dinah.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who suggested having a Caucus-race?",
+              "answer": "The Dodo suggested having a Caucus-race."
+            },
+            {
+              "level": "easy",
+              "question": "What did Alice give the others as prizes?",
+              "answer": "She gave them comfits from a box in her pocket."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Dodo say everyone had won the race?",
+              "answer": "There were no clear rules about when the race began or ended, so the Dodo declared everyone a winner."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the birds hurry away when Alice talked about Dinah?",
+              "answer": "They were afraid because Alice said her cat Dinah liked catching and eating birds."
+            },
+            {
+              "level": "hard",
+              "question": "How might Alice’s feelings in this chapter be like her feelings in the pool of tears in the last chapter?",
+              "answer": "A good answer connects Alice’s sadness or loneliness here with her earlier distress when she cried in the pool."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice should do if the Mouse comes back, and why?",
+              "answer": "A good answer gives an idea for what Alice should do and a reason, such as listening more carefully or apologizing."
+            }
+          ]
+        },
+        "4": {
+          "summary": "Alice drinks from a bottle in the White Rabbit’s house and grows so large that she is trapped inside. She shrinks by eating a little cake, escapes, meets a puppy in the wood, and then finds a blue caterpillar sitting on a mushroom.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the White Rabbit ask Alice to fetch?",
+              "answer": "He asked her to fetch his fan and a pair of gloves."
+            },
+            {
+              "level": "easy",
+              "question": "What animal did Alice meet in the wood after escaping the house?",
+              "answer": "She met an enormous puppy."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice grow too large to get out of the Rabbit’s house?",
+              "answer": "She drank from a little bottle that made her grow."
+            },
+            {
+              "level": "medium",
+              "question": "How did Alice become small enough to leave the house?",
+              "answer": "She ate one of the little cakes that had come through the window."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice learned about using food or drink to change her size?",
+              "answer": "A good answer explains that it can help her, but she may not know how much to eat or drink."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice fell into a pool of tears after changing size. How is her size trouble in this chapter similar, and how is it different?",
+              "answer": "A good answer says she changes size in both chapters, but here she grows too large inside the Rabbit’s house and later shrinks with a cake."
+            }
+          ]
+        },
+        "5": {
+          "summary": "The Caterpillar questions Alice and tells her that pieces from different sides of its mushroom can make her grow taller or shorter. After shrinking and growing very tall, Alice uses the mushroom pieces to return to her usual height, then shrinks to nine inches before approaching a little house.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did the Caterpillar ask Alice at the start of their conversation?",
+              "answer": "It asked, “Who are you?”"
+            },
+            {
+              "level": "easy",
+              "question": "What did the Caterpillar say would make Alice grow taller or shorter?",
+              "answer": "Different sides of the mushroom would make her grow taller or shorter."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Pigeon think Alice was a serpent?",
+              "answer": "Alice’s long neck made her look like a serpent to the Pigeon."
+            },
+            {
+              "level": "medium",
+              "question": "How did Alice get back to her usual height?",
+              "answer": "She carefully nibbled pieces from both sides of the mushroom until she was her usual height."
+            },
+            {
+              "level": "hard",
+              "question": "How might Alice’s size changes in this chapter feel like her size changes in the earlier chapters?",
+              "answer": "A good answer says Alice changes size again and describes how this makes it hard for her to feel sure of herself or what to do."
+            },
+            {
+              "level": "hard",
+              "question": "What do you think Alice might do next to reach the garden? Why?",
+              "answer": "A good answer makes a sensible prediction about how Alice might try to reach the garden and gives a reason from the story."
+            }
+          ]
+        },
+        "6": {
+          "summary": "Alice enters the Duchess’s noisy, pepper-filled kitchen, where the Duchess gives her a baby that soon turns into a pig. She meets the Cheshire Cat, learns that the March Hare and the Hatter live nearby, and heads toward the March Hare’s house after using mushroom pieces to grow taller.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What invitation did the Fish-Footman bring to the Duchess?",
+              "answer": "The Queen invited the Duchess to play croquet."
+            },
+            {
+              "level": "easy",
+              "question": "What did the baby turn into?",
+              "answer": "The baby turned into a pig."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice go into the Duchess’s house even though the Footman did not help her?",
+              "answer": "She decided there was no use talking to him, so she opened the door and went inside."
+            },
+            {
+              "level": "medium",
+              "question": "How did Alice figure out that the baby had turned into a pig?",
+              "answer": "She noticed its nose looked like a snout and its eyes were getting smaller, then it grunted like a pig."
+            },
+            {
+              "level": "hard",
+              "question": "Alice carried the baby away because she worried it might be killed. What does this show about how she feels toward it?",
+              "answer": "A good answer explains that Alice feels caring or responsible because she tries to protect the baby."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice used pieces of a mushroom to change her height. How might that help her as she approaches the March Hare’s house?",
+              "answer": "A good answer predicts that she can use the mushroom to change her height if she needs to."
+            }
+          ]
+        },
+        "7": {
+          "summary": "Alice joins the March Hare, the Hatter, and the sleepy Dormouse for a strange tea-party full of riddles and a confusing story. After leaving, she finds a door in a tree, returns to the long hall, uses a mushroom piece to shrink, and finally enters the garden.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Which three characters were having tea with Alice?",
+              "answer": "The March Hare, the Hatter, and the Dormouse were having tea."
+            },
+            {
+              "level": "easy",
+              "question": "What did Alice find at the end of the tree door?",
+              "answer": "She found herself in the long hall near the little glass table."
+            },
+            {
+              "level": "medium",
+              "question": "Why was it always tea-time for the Hatter and his friends?",
+              "answer": "The Hatter had upset Time, so the clock stayed at six o’clock and they could not wash the tea things."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice leave the tea-party?",
+              "answer": "She got upset when the Hatter was rude to her, so she walked away."
+            },
+            {
+              "level": "hard",
+              "question": "How did Alice use what she learned from the Caterpillar to reach the garden?",
+              "answer": "A good answer says she used a piece of mushroom to change her size and fit through the little passage."
+            },
+            {
+              "level": "hard",
+              "question": "If you were at this tea-party, what would you think or do? Why?",
+              "answer": "A good answer shares a clear opinion or action and gives a reason based on the strange or rude tea-party."
+            }
+          ]
+        },
+        "8": {
+          "summary": "Alice finds gardeners painting white roses red because they planted the wrong flowers and fear the Queen. She joins the Queen’s confusing croquet game, meets the Cheshire Cat, and is asked to help settle an argument about whether the Cat can be beheaded.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What color were the roses before the gardeners painted them?",
+              "answer": "The roses were white."
+            },
+            {
+              "level": "easy",
+              "question": "What were the croquet balls made of?",
+              "answer": "The balls were live hedgehogs."
+            },
+            {
+              "level": "medium",
+              "question": "Why were the gardeners painting the roses red?",
+              "answer": "They had planted a white rose-tree by mistake and feared the Queen would have their heads cut off."
+            },
+            {
+              "level": "medium",
+              "question": "Why was Alice’s croquet game so difficult?",
+              "answer": "The flamingos, hedgehogs, and soldiers kept moving, and the players argued and played without clear turns."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think Alice was brave when she spoke back to the Queen? Why?",
+              "answer": "A good answer gives an opinion and explains it with something Alice said or did."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice used pieces of a mushroom to change her size. How might that help her in the Queen’s garden?",
+              "answer": "A good answer predicts a way changing size could help Alice and explains how it might help in the garden."
+            }
+          ]
+        },
+        "9": {
+          "summary": "The Queen sends Alice with the Gryphon to meet the sad Mock Turtle, who tells them about his underwater school and its strange lessons. The Gryphon interrupts the story and asks the Mock Turtle to talk about their games instead.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who does Alice walk with after leaving the Queen?",
+              "answer": "Alice walks with the Duchess."
+            },
+            {
+              "level": "easy",
+              "question": "Where did the Mock Turtle go to school?",
+              "answer": "He went to school in the sea."
+            },
+            {
+              "level": "medium",
+              "question": "Why does the Duchess suddenly leave Alice?",
+              "answer": "The Queen threatens that either the Duchess or her head must be gone, so the Duchess runs away."
+            },
+            {
+              "level": "medium",
+              "question": "Why were there no croquet arches left by the end of the game?",
+              "answer": "The soldiers had to leave their arch positions to take away the players the Queen had sentenced."
+            },
+            {
+              "level": "hard",
+              "question": "The Duchess thinks pepper can make people hot-tempered. Do you think food can change how someone feels? Why?",
+              "answer": "A good answer gives an opinion and a reason, such as saying spicy food might make someone uncomfortable but does not decide their behavior."
+            },
+            {
+              "level": "hard",
+              "question": "In the earlier tea-party chapter, Alice found the Hatter and March Hare’s conversation confusing. How is talking with the Mock Turtle and Gryphon similar or different?",
+              "answer": "A good answer compares the strange wordplay or confusing conversation in both chapters, using an example from each."
+            }
+          ]
+        },
+        "10": {
+          "summary": "The Mock Turtle and Gryphon explain the Lobster Quadrille, and Alice listens to their songs and tells them about her adventures. When they hear that a trial is beginning, the Gryphon takes Alice away before the Mock Turtle finishes singing “Beautiful Soup.”",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What dance do the Mock Turtle and Gryphon describe?",
+              "answer": "They describe the Lobster Quadrille."
+            },
+            {
+              "level": "easy",
+              "question": "What song does the Mock Turtle sing near the end?",
+              "answer": "He sings “Beautiful Soup.”"
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice’s words come out strangely when she tried to repeat the poem?",
+              "answer": "Her head was full of the Lobster Quadrille, so she could hardly remember what she was saying."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the Gryphon hurry Alice away?",
+              "answer": "He heard that the trial was beginning and hurried her to it."
+            },
+            {
+              "level": "hard",
+              "question": "Which earlier adventure of Alice’s do you think would be the strangest to tell the Mock Turtle and Gryphon, and why?",
+              "answer": "A good answer names an earlier adventure and gives a reason it would seem strange or surprising to them."
+            },
+            {
+              "level": "hard",
+              "question": "If you were Alice, would you join the Lobster Quadrille? Why or why not?",
+              "answer": "A good answer clearly says whether the child would join and gives a reason based on the dance."
+            }
+          ]
+        },
+        "11": {
+          "summary": "At the Knave of Hearts’ trial, the Hatter and the Duchess’s cook give confusing evidence, while the King and Queen cause disorder. Alice begins growing larger, and the White Rabbit calls her as the next witness.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "Who was standing in chains at the trial?",
+              "answer": "The Knave of Hearts was standing in chains."
+            },
+            {
+              "level": "easy",
+              "question": "What did the White Rabbit read from the scroll?",
+              "answer": "He read a rhyme accusing the Knave of stealing the Queen’s tarts."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice take the pencil from the juror?",
+              "answer": "The pencil squeaked, and Alice could not stand the noise."
+            },
+            {
+              "level": "medium",
+              "question": "Why did the people near the court door start sneezing when the cook arrived?",
+              "answer": "The cook carried a pepper-box, and the pepper made them sneeze."
+            },
+            {
+              "level": "hard",
+              "question": "Why do you think Alice stayed at the trial even though she was growing bigger?",
+              "answer": "A good answer gives a reason based on the story, such as her curiosity or wanting to see what happened."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice used pieces of a mushroom to change her size. How is her changing size at the trial different from those earlier changes?",
+              "answer": "A good answer explains that she grows at the trial without choosing to use a mushroom piece."
+            }
+          ]
+        },
+        "12": {
+          "summary": "Alice knocks over the jury-box, then tells the court the verses do not prove the Knave is guilty. When the Queen orders her head cut off, Alice calls the court a pack of cards and wakes up beside her sister, realizing Wonderland was a dream.",
+          "questions": [
+            {
+              "level": "easy",
+              "question": "What did Alice knock over when she jumped up?",
+              "answer": "She knocked over the jury-box."
+            },
+            {
+              "level": "easy",
+              "question": "Where did Alice find herself when the cards flew at her?",
+              "answer": "She found herself lying on the bank with her sister."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice pick up the jurymen after knocking over their box?",
+              "answer": "She thought they had to be put back quickly or they might die, like the goldfish she once upset."
+            },
+            {
+              "level": "medium",
+              "question": "Why did Alice say the paper did not prove the Knave was guilty?",
+              "answer": "She said nobody even knew what the verses were about."
+            },
+            {
+              "level": "hard",
+              "question": "Do you think the King’s rule about people over a mile high was fair to Alice? Why?",
+              "answer": "A good answer gives an opinion and explains it, such as saying it was unfair because the King had just made up the rule."
+            },
+            {
+              "level": "hard",
+              "question": "Earlier, Alice met a pig that had been a baby. What do these strange changes make you think might happen if Alice dreams of Wonderland again?",
+              "answer": "A good answer makes a reasonable prediction and connects it to the strange changes in Wonderland, such as guessing Alice or another character might change again."
+            }
+          ]
+        }
+      }
+    }
+  }
+}

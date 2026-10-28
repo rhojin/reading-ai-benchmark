@@ -1,0 +1,29 @@
+{
+  "reviewer": "Claude (AI assistant), checked against the book text - a quick plausibility check, not a teacher's assessment",
+  "criterion": "A question counts as usable if a parent could ask it as written: clear for the age, answerable from the story, with a correct expected answer. Two-part questions still count as usable; the 'Asks two things' column shows how many break the prompt's 'one thing per question' rule (a 'Why?' after an opinion question is not counted).",
+  "ages": "8-10",
+  "runs": {"anthropic-big": 7, "anthropic-small": 5, "openai-big": 8, "openai-small": 6},
+  "chapters": [1, 12],
+  "ratings": {
+    "anthropic-big": {
+      "1": {"usable": 6, "why_not": ""},
+      "12": {"usable": 6, "why_not": ""},
+      "two_part": 3
+    },
+    "anthropic-small": {
+      "1": {"usable": 6, "why_not": ""},
+      "12": {"usable": 4, "why_not": "Easy 1: the expected answer gets the order wrong (Alice is called at the end of chapter 11, before the verses turn up). Hard 2: muddled - names the Mouse and the Mock Turtle, then asks two other things."},
+      "two_part": 7
+    },
+    "openai-big": {
+      "1": {"usable": 6, "why_not": ""},
+      "12": {"usable": 6, "why_not": ""},
+      "two_part": 0
+    },
+    "openai-small": {
+      "1": {"usable": 6, "why_not": ""},
+      "12": {"usable": 6, "why_not": ""},
+      "two_part": 0
+    }
+  }
+}

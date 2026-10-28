@@ -1,0 +1,14 @@
+# Virtual environment and Python cache
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets: the real API key lives only in .env
+.env
+
+# Local data, re-created by run_benchmark.py
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+books/
